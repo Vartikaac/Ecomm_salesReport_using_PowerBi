@@ -28,6 +28,11 @@ This dashboard solves the problem by providing detailed visualizations of:
 5. **Quantity Sold**: Shows the total number of units sold.
 
 ---
+## View Project: Ecomm Sales Performance Analysis
+
+![Ecomm Sales Performance Analysis Dashboard](ECOMM%20SALES%20REPORT/ecom%20chart.png)
+
+---
 
 ## Dashboard Components
 
