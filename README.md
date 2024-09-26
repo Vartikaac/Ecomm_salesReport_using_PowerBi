@@ -30,7 +30,7 @@ This dashboard solves the problem by providing detailed visualizations of:
 ---
 ## View Project: Ecomm Sales Performance Analysis
 
-![Ecomm Sales Performance Analysis Dashboard](ECOMM%20SALES%20REPORT/ecom%20chart.png)
+![Ecomm Sales Performance Analysis Dashboard](https://github.com/Vartikaac/Ecomm_salesReport_using_PowerBi/blob/main/ecom%20chart.png)
 
 ---
 
@@ -59,27 +59,6 @@ This dashboard solves the problem by providing detailed visualizations of:
 ### 6. **Sum of Sales by Ship Mode**
    - A bar chart illustrating the efficiency of different shipping modes (Standard Class, Second Class, First Class, Same Day).
    - Helps in optimizing shipping strategies by understanding which methods are the most cost-effective.
-
----
-
-## Dataset Details
-
-The project uses **ECOMM DATA.xlsx**, a dataset containing historical sales data, including:
-- **Order ID**: Unique identifier for each order
-- **Order Date**: Date the order was placed
-- **Ship Mode**: Method of shipping (Standard, First Class, etc.)
-- **Customer ID**: Identifier for each customer
-- **Product Category & Sub-category**: Grouping of products sold
-- **Sales, Profit, Quantity**: Sales amount, profit margins, and number of units sold
-- **Region, Country, State**: Geographical information for sales tracking
-
----
-
-## Tools and Technologies Used
-
-1. **Microsoft Power BI**: Used to create interactive dashboards and visualize sales, profits, and other business metrics.
-2. **DAX (Data Analysis Expressions)**: Utilized for advanced calculations and data analysis.
-3. **Excel**: The data source was prepared and cleaned in Excel before importing into Power BI.
 
 ---
 
